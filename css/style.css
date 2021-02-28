@@ -1,0 +1,26 @@
+body{
+	background: #C0C0C0;
+}
+img{
+	display: none;
+	width: 250px;
+}
+.main-box{
+	display: flex;
+	flex-direction: column;
+	width: 250px;
+	margin: 0 auto;
+}
+.secondary{
+	display: flex;
+	justify-content: space-between;
+
+}
+.button-box{
+	margin-top: 5px;
+	display: flex;
+	flex-direction: column;
+}
+button{
+	margin-top: 11px;
+}
